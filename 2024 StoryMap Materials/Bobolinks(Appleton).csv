@@ -1,0 +1,502 @@
+Property,Field,Mown,Year,Date,Time ,Surveyor,Point,<50_Males,<50_Females,<50_Total,>50_Male,>50_Females,>50_Total,Total_Counts 
+Appleton Farms,Sunset Hill,N,2024,5/2/2024,7:20,Jane Woodman,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,5/2/2024,7:15,Jane Woodman,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,5/2/2024,7:25,Jane Woodman,3B,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,5/2/2024,7:30,Jane Woodman,3B,0,0,0,0,0,0,0
+Appleton Farms,Horse Field Upper,N,2024,5/2/2024,8:25,Jane Woodman,3C,0,0,0,0,0,0,0
+Appleton Farms,Horse Field South,N,2024,5/2/2024,8:15,Jane Woodman,3D,0,0,0,0,0,0,0
+Appleton Farms,Williams West,N,2024,5/2/2024,7:45,Jane Woodman,3E,0,0,0,0,0,0,0
+Appleton Farms,Williams West,N,2024,5/2/2024,7:55,Jane Woodman,3F,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,5/3/2024,7:33,Peter Ward,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,5/3/2024,7:48,Peter Ward,2B,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,5/3/2024,7:54,Peter Ward,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,5/3/2024,8:10,Peter Ward,2D,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,5/3/2024,8:19,Peter Ward,2E,0,0,0,0,0,0,0
+Appleton Farms,Steer Barn,N,2024,5/3/2024,8:25,Peter Ward,2E,0,0,0,0,0,0,0
+Appleton Farms,Lamson Middle,N,2024,5/5/2024,6:32,Sharon Stavropoulos,1A,0,0,0,0,0,0,0
+Appleton Farms,Lamson Middle,N,2024,5/5/2024,6:41,Sharon Stavropoulos,1B,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,N,2024,5/5/2024,6:50,Sharon Stavropoulos,1B,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,N,2024,5/5/2024,6:58,Sharon Stavropoulos,1C,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,N,2024,5/5/2024,7:08,Sharon Stavropoulos,1D,0,0,0,0,0,0,0
+Appleton Farms,GP8,N,2024,5/5/2024,7:23,Sharon Stavropoulos,1E,0,0,0,0,0,0,0
+Appleton Farms,GP8,N,2024,5/5/2024,7:32,Sharon Stavropoulos,1F,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,5/5/2024,6:23,Sharon Stavropoulos,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,5/5/2024,6:36,Sharon Stavropoulos,2B,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,5/5/2024,6:50,Sharon Stavropoulos,2C,0,0,0,1,0,1,1
+Appleton Farms,Broad Meadow,N,2024,5/5/2024,7:00,Sharon Stavropoulos,2D,1,0,1,0,0,0,1
+Appleton Farms,Broad Meadow,N,2024,5/5/2024,7:11,Sharon Stavropoulos,2E,0,0,0,0,0,0,0
+Appleton Farms,Steer Barn,N,2024,5/5/2024,7:16,Sharon Stavropoulos,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,5/5/2024,8:12,Sharon Stavropoulos,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,5/5/2024,8:07,Sharon Stavropoulos,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,5/5/2024,8:00,Sharon Stavropoulos,3B,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,5/5/2024,7:52,Sharon Stavropoulos,3B,0,0,0,0,0,0,0
+Appleton Farms,Horse Field Upper,N,2024,5/5/2024,7:35,Sharon Stavropoulos,3C,0,0,0,0,0,0,0
+Appleton Farms,Horse Field South,N,2024,5/5/2024,7:43,Sharon Stavropoulos,3D,0,0,0,0,0,0,0
+Appleton Farms,Williams West,N,2024,5/5/2024,8:21,Sharon Stavropoulos,3E,0,0,0,0,0,0,0
+Appleton Farms,Williams West,N,2024,5/5/2024,8:27,Sharon Stavropoulos,3F,0,0,0,2,0,2,2
+Appleton Farms,Sunset Hill,N,2024,5/7/2024,7:05,Jane Woodman,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,5/7/2024,7:10,Jane Woodman,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,5/7/2024,7:45,Jane Woodman,3B,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,5/7/2024,7:55,Jane Woodman,3B,0,0,0,0,0,0,0
+Appleton Farms,Horse Field Upper,N,2024,5/7/2024,7:30,Jane Woodman,3C,0,0,0,0,0,0,0
+Appleton Farms,Horse Field South,N,2024,5/7/2024,8:10,Jane Woodman,3D,0,0,0,0,0,0,0
+Appleton Farms,Williams West,N,2024,5/7/2024,8:20,Jane Woodman,3E,0,0,0,0,0,0,0
+Appleton Farms,Williams West,N,2024,5/7/2024,8:40,Jane Woodman,3F,0,0,0,0,0,0,0
+Appleton Farms,Lamson Middle,N,2024,5/8/2024,7:20,Greg Power,1A,0,0,0,4,0,4,4
+Appleton Farms,Lamson Middle,N,2024,5/8/2024,7:30,Greg Power,1B,0,0,0,3,0,3,3
+Appleton Farms,Lamson South,N,2024,5/8/2024,7:38,Greg Power,1B,0,0,0,2,0,2,2
+Appleton Farms,Lamson South,N,2024,5/8/2024,7:48,Greg Power,1C,0,0,0,2,0,2,2
+Appleton Farms,Lamson South,N,2024,5/8/2024,8:04,Greg Power,1D,0,0,0,1,2,3,3
+Appleton Farms,GP8,N,2024,5/8/2024,8:36,Greg Power,1E,0,0,0,4,0,4,4
+Appleton Farms,GP8,N,2024,5/8/2024,8:41,Greg Power,1F,4,0,4,0,0,0,4
+Appleton Farms,Wilson's,N,2024,5/9/2024,7:49,Peter Ward,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,5/9/2024,7:32,Peter Ward,2B,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,5/9/2024,7:20,Peter Ward,2C,2,0,2,2,0,2,4
+Appleton Farms,Broad Meadow,N,2024,5/9/2024,7:12,Peter Ward,2D,4,0,4,0,1,1,5
+Appleton Farms,Broad Meadow,N,2024,5/9/2024,6:57,Peter Ward,2E,2,1,3,0,0,0,3
+Appleton Farms,Steer Barn,N,2024,5/9/2024,7:03,Peter Ward,2E,2,0,2,0,0,0,2
+Appleton Farms,Sunset Hill,N,2024,5/13/2024,7:10,Jane Woodman,3A,1,0,1,0,0,0,1
+Appleton Farms,Sunset Meadow,N,2024,5/13/2024,7:00,Jane Woodman,3A,5,0,5,0,0,0,5
+Appleton Farms,Sunset Hill,N,2024,5/13/2024,7:55,Jane Woodman,3B,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,5/13/2024,7:45,Jane Woodman,3B,0,1,1,0,0,0,1
+Appleton Farms,Horse Field Upper,N,2024,5/13/2024,7:30,Jane Woodman,3C,0,0,0,0,0,0,0
+Appleton Farms,Horse Field South,N,2024,5/13/2024,8:15,Jane Woodman,3D,0,0,0,0,0,0,0
+Appleton Farms,Williams West,N,2024,5/13/2024,8:30,Jane Woodman,3E,0,0,0,5,0,5,5
+Appleton Farms,Williams West,N,2024,5/13/2024,8:37,Jane Woodman,3F,0,0,0,0,0,0,0
+Appleton Farms,Lamson Middle,N,2024,5/12/2024,6:40,Sharon Stavropoulos,1A,3,0,3,0,0,0,3
+Appleton Farms,Lamson Middle,N,2024,5/12/2024,6:50,Sharon Stavropoulos,1B,0,0,0,1,0,1,1
+Appleton Farms,Lamson South,N,2024,5/12/2024,6:55,Sharon Stavropoulos,1B,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,N,2024,5/12/2024,7:02,Sharon Stavropoulos,1C,0,0,0,1,0,1,1
+Appleton Farms,Lamson South,N,2024,5/12/2024,7:12,Sharon Stavropoulos,1D,0,0,0,0,0,0,0
+Appleton Farms,GP8,N,2024,5/12/2024,7:28,Sharon Stavropoulos,1E,2,0,2,0,0,0,2
+Appleton Farms,GP8,N,2024,5/12/2024,7:35,Sharon Stavropoulos,1F,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,5/11/2024,6:37,Sharon Stavropoulos,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,5/11/2024,6:50,Sharon Stavropoulos,2B,0,0,0,1,0,1,1
+Appleton Farms,Broad Meadow,N,2024,5/11/2024,7:01,Sharon Stavropoulos,2C,0,0,0,1,0,1,1
+Appleton Farms,Broad Meadow,N,2024,5/11/2024,7:09,Sharon Stavropoulos,2D,2,0,2,1,0,1,3
+Appleton Farms,Broad Meadow,N,2024,5/11/2024,7:20,Sharon Stavropoulos,2E,2,0,2,0,0,0,2
+Appleton Farms,Steer Barn,N,2024,5/11/2024,7:25,Sharon Stavropoulos,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,5/11/2024,8:16,Sharon Stavropoulos,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,5/11/2024,8:22,Sharon Stavropoulos,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,5/11/2024,8:04,Sharon Stavropoulos,3B,0,0,0,1,0,1,1
+Appleton Farms,Sunset Meadow,N,2024,5/11/2024,8:09,Sharon Stavropoulos,3B,0,0,0,1,0,1,1
+Appleton Farms,Horse Field Upper,N,2024,5/11/2024,7:44,Sharon Stavropoulos,3C,0,0,0,1,0,1,1
+Appleton Farms,Horse Field South,N,2024,5/11/2024,7:55,Sharon Stavropoulos,3D,0,0,0,0,0,0,0
+Appleton Farms,Williams West,N,2024,5/11/2024,8:35,Sharon Stavropoulos,3E,0,0,0,0,0,0,0
+Appleton Farms,Williams West,N,2024,5/11/2024,8:42,Sharon Stavropoulos,3F,0,0,0,3,0,3,3
+Appleton Farms,Wilson's,N,2024,5/12/2024,8:48,Bonnie Marsan,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,5/12/2024,9:07,Bonnie Marsan,2B,1,0,1,0,0,0,1
+Appleton Farms,Broad Meadow,N,2024,5/12/2024,9:22,Bonnie Marsan,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,5/12/2024,9:29,Bonnie Marsan,2D,13,1,14,6,0,6,20
+Appleton Farms,Broad Meadow,N,2024,5/12/2024,9:42,Bonnie Marsan,2E,0,1,1,0,0,0,1
+Appleton Farms,Steer Barn,N,2024,5/12/2024,9:48,Bonnie Marsan,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,5/15/2024,7:36,Greg Power,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,5/15/2024,7:41,Greg Power,3A,0,0,0,2,0,2,2
+Appleton Farms,Sunset Hill,N,2024,5/15/2024,7:21,Greg Power,3B,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,5/15/2024,7:27,Greg Power,3B,2,0,2,2,0,2,4
+Appleton Farms,Horse Field Upper,N,2024,5/15/2024,7:03,Greg Power,3C,1,0,1,1,0,1,2
+Appleton Farms,Horse Field South,N,2024,5/15/2024,7:12,Greg Power,3D,1,0,1,1,0,1,2
+Appleton Farms,Williams West,N,2024,5/15/2024,8:02,Greg Power,3E,1,0,1,1,0,1,2
+Appleton Farms,Williams West,N,2024,5/15/2024,8:14,Greg Power,3F,1,0,1,6,0,6,7
+Appleton Farms,Wilson's,N,2024,5/17/2024,6:59,Peter Ward,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,5/17/2024,6:44,Peter Ward,2B,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,5/17/2024,6:32,Peter Ward,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,5/17/2024,6:23,Peter Ward,2D,2,0,2,2,0,2,4
+Appleton Farms,Broad Meadow,N,2024,5/17/2024,6:15,Peter Ward,2E,2,1,3,1,0,1,4
+Appleton Farms,Steer Barn,N,2024,5/17/2024,6:09,Peter Ward,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,5/21/2024,8:05,Jane Woodman,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,5/21/2024,8:10,Jane Woodman,3A,0,0,0,3,1,4,4
+Appleton Farms,Sunset Hill,N,2024,5/21/2024,7:40,Jane Woodman,3B,1,0,1,0,0,0,1
+Appleton Farms,Sunset Meadow,N,2024,5/21/2024,7:50,Jane Woodman,3B,0,0,0,2,0,2,2
+Appleton Farms,Horse Field Upper,N,2024,5/21/2024,7:25,Jane Woodman,3C,0,0,0,3,0,3,3
+Appleton Farms,Horse Field South,N,2024,5/21/2024,8:25,Jane Woodman,3D,0,0,0,0,0,0,0
+Appleton Farms,Williams West,N,2024,5/21/2024,8:40,Jane Woodman,3E,0,0,0,4,1,5,5
+Appleton Farms,Williams West,N,2024,5/21/2024,8:55,Jane Woodman,3F,1,0,1,0,0,0,1
+Appleton Farms,Lamson Middle,N,2024,5/18/2024,8:02,Sharon Stavropoulos,1A,1,0,1,0,0,0,1
+Appleton Farms,Lamson Middle,N,2024,5/18/2024,8:10,Sharon Stavropoulos,1B,0,0,0,2,0,2,2
+Appleton Farms,Lamson South,N,2024,5/18/2024,8:16,Sharon Stavropoulos,1B,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,N,2024,5/18/2024,8:22,Sharon Stavropoulos,1C,1,0,1,0,0,0,1
+Appleton Farms,Lamson South,N,2024,5/18/2024,8:32,Sharon Stavropoulos,1D,0,0,0,1,0,1,1
+Appleton Farms,GP8,N,2024,5/18/2024,8:48,Sharon Stavropoulos,1E,0,0,0,0,0,0,0
+Appleton Farms,GP8,N,2024,5/18/2024,8:57,Sharon Stavropoulos,1F,2,0,2,0,0,0,2
+Appleton Farms,Lamson Middle,N,2024,5/23/2024,7:09,Greg Power,1A,4,0,4,6,0,6,10
+Appleton Farms,Lamson Middle,N,2024,5/23/2024,7:21,Greg Power,1B,4,1,5,5,0,5,10
+Appleton Farms,Lamson South,N,2024,5/23/2024,7:27,Greg Power,1B,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,N,2024,5/23/2024,7:38,Greg Power,1C,2,0,2,2,1,3,5
+Appleton Farms,Lamson South,N,2024,5/23/2024,7:51,Greg Power,1D,0,0,0,4,1,5,5
+Appleton Farms,GP8,N,2024,5/23/2024,8:27,Greg Power,1E,0,0,0,4,0,4,4
+Appleton Farms,GP8,N,2024,5/23/2024,8:38,Greg Power,1F,4,0,4,3,0,3,7
+Appleton Farms,Wilson's,N,2024,5/17/2024,7:46,Bonnie Marsan,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,5/17/2024,7:58,Bonnie Marsan,2B,1,0,1,0,0,0,1
+Appleton Farms,Broad Meadow,N,2024,5/17/2024,8:09,Bonnie Marsan,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,5/17/2024,8:15,Bonnie Marsan,2D,17,1,18,6,0,6,24
+Appleton Farms,Broad Meadow,N,2024,5/17/2024,8:24,Bonnie Marsan,2E,3,0,3,1,0,1,4
+Appleton Farms,Steer Barn,N,2024,5/17/2024,8:30,Bonnie Marsan,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,5/28/2024,9:13,Greg Power,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,5/28/2024,9:07,Greg Power,3A,1,1,2,0,0,0,2
+Appleton Farms,Sunset Hill,N,2024,5/28/2024,8:50,Greg Power,3B,3,0,3,1,0,1,4
+Appleton Farms,Sunset Meadow,N,2024,5/28/2024,8:57,Greg Power,3B,1,0,1,0,0,0,1
+Appleton Farms,Horse Field Upper,N,2024,5/28/2024,8:23,Greg Power,3C,0,0,0,2,0,2,2
+Appleton Farms,Horse Field South,N,2024,5/28/2024,8:37,Greg Power,3D,0,0,0,2,0,2,2
+Appleton Farms,Williams West,N,2024,5/28/2024,9:29,Greg Power,3E,0,0,0,1,0,1,1
+Appleton Farms,Williams West,N,2024,5/28/2024,9:40,Greg Power,3F,1,0,1,3,0,3,4
+Appleton Farms,Wilson's,N,2024,5/27/2024,6:42,Sharon Stavropoulos,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,5/27/2024,6:55,Sharon Stavropoulos,2B,1,0,1,0,0,0,1
+Appleton Farms,Broad Meadow,N,2024,5/27/2024,7:04,Sharon Stavropoulos,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,5/27/2024,7:10,Sharon Stavropoulos,2D,3,1,4,0,0,0,4
+Appleton Farms,Broad Meadow,N,2024,5/27/2024,7:19,Sharon Stavropoulos,2E,2,0,2,1,0,1,3
+Appleton Farms,Steer Barn,N,2024,5/27/2024,7:25,Sharon Stavropoulos,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,5/27/2024,8:05,Sharon Stavropoulos,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,5/27/2024,8:00,Sharon Stavropoulos,3A,0,0,0,1,0,1,1
+Appleton Farms,Sunset Hill,N,2024,5/27/2024,7:54,Sharon Stavropoulos,3B,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,5/27/2024,7:49,Sharon Stavropoulos,3B,0,0,0,1,0,1,1
+Appleton Farms,Horse Field Upper,N,2024,5/27/2024,7:40,Sharon Stavropoulos,3C,0,0,0,1,0,1,1
+Appleton Farms,Horse Field South,N,2024,5/27/2024,8:12,Sharon Stavropoulos,3D,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,5/21/2024,7:33,David Young,2A,1,0,1,1,0,1,2
+Appleton Farms,Drainage,N,2024,5/21/2024,7:46,David Young,2B,2,0,2,1,0,1,3
+Appleton Farms,Broad Meadow,N,2024,5/21/2024,8:22,David Young,2C,1,0,1,1,0,1,2
+Appleton Farms,Broad Meadow,N,2024,5/21/2024,7:54,David Young,2D,4,0,4,2,0,2,6
+Appleton Farms,Broad Meadow,N,2024,5/21/2024,8:06,David Young,2E,1,0,1,0,0,0,1
+Appleton Farms,Steer Barn,N,2024,5/21/2024,8:11,David Young,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,5/24/2024,9:49,David Young,3A,1,0,1,0,0,0,1
+Appleton Farms,Sunset Meadow,N,2024,5/24/2024,9:52,David Young,3A,0,0,0,1,0,1,1
+Appleton Farms,Sunset Hill,N,2024,5/24/2024,10:07,David Young,3B,0,0,0,1,0,1,1
+Appleton Farms,Sunset Meadow,N,2024,5/24/2024,10:02,David Young,3B,3,1,4,0,0,0,4
+Appleton Farms,Horse Field Upper,N,2024,5/24/2024,9:32,David Young,3C,2,0,2,0,0,0,2
+Appleton Farms,Horse Field South,N,2024,5/24/2024,10:26,David Young,3D,0,0,0,0,0,0,0
+Appleton Farms,Williams West,N,2024,5/24/2024,10:32,David Young,3E,0,0,0,3,0,3,3
+Appleton Farms,Williams West,N,2024,5/24/2024,10:42,David Young,3F,0,0,0,1,0,1,1
+Appleton Farms,Wilson's,N,2024,5/26/2024,8:32,Bonnie Marsan,2A,1,0,1,0,0,0,1
+Appleton Farms,Drainage,N,2024,5/26/2024,8:46,Bonnie Marsan,2B,1,0,1,0,0,0,1
+Appleton Farms,Broad Meadow,N,2024,5/26/2024,8:57,Bonnie Marsan,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,5/26/2024,9:04,Bonnie Marsan,2D,9,0,9,2,1,3,12
+Appleton Farms,Broad Meadow,N,2024,5/26/2024,9:13,Bonnie Marsan,2E,3,0,3,0,0,0,3
+Appleton Farms,Steer Barn,N,2024,5/26/2024,9:19,Bonnie Marsan,2E,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,5/31/2024,6:52,Bonnie Marsan,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,5/31/2024,7:08,Bonnie Marsan,2B,2,0,2,0,0,0,2
+Appleton Farms,Broad Meadow,N,2024,5/31/2024,7:19,Bonnie Marsan,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,5/31/2024,7:25,Bonnie Marsan,2D,7,0,7,6,1,7,14
+Appleton Farms,Broad Meadow,N,2024,5/31/2024,7:34,Bonnie Marsan,2E,1,1,2,1,0,1,3
+Appleton Farms,Steer Barn,N,2024,5/31/2024,7:40,Bonnie Marsan,2E,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,5/17/2024,9:35,Peter Ward,2A,2,0,2,0,0,0,2
+Appleton Farms,Drainage,N,2024,5/24/2024,9:21,Peter Ward,2B,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,5/24/2024,9:11,Peter Ward,2C,0,0,0,2,0,2,2
+Appleton Farms,Broad Meadow,N,2024,5/24/2024,9:03,Peter Ward,2D,3,0,3,1,0,1,4
+Appleton Farms,Broad Meadow,N,2024,5/24/2024,8:55,Peter Ward,2E,1,0,1,0,0,0,1
+Appleton Farms,Steer Barn,N,2024,5/24/2024,8:49,Peter Ward,2E,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,5/31/2024,7:38,Peter Ward,2A,1,0,1,0,0,0,1
+Appleton Farms,Drainage,N,2024,5/31/2024,7:21,Peter Ward,2B,1,0,1,0,0,0,1
+Appleton Farms,Broad Meadow,N,2024,5/31/2024,7:10,Peter Ward,2C,3,1,4,0,0,0,4
+Appleton Farms,Broad Meadow,N,2024,5/31/2024,7:01,Peter Ward,2D,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,5/31/2024,6:51,Peter Ward,2E,0,0,0,0,0,0,0
+Appleton Farms,Steer Barn,N,2024,5/31/2024,6:45,Peter Ward,2E,2,1,3,2,0,2,5
+Appleton Farms,Sunset Hill,N,2024,6/3/2024,7:35,Jane Woodman,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,6/3/2024,7:25,Jane Woodman,3A,4,0,4,0,0,0,4
+Appleton Farms,Sunset Hill,N,2024,6/3/2024,7:15,Jane Woodman,3B,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,6/3/2024,7:05,Jane Woodman,3B,3,1,4,1,0,1,5
+Appleton Farms,Horse Field Upper,N,2024,6/3/2024,6:45,Jane Woodman,3C,1,0,1,0,0,0,1
+Appleton Farms,Horse Field South,N,2024,6/3/2024,8:00,Jane Woodman,3D,1,0,1,0,0,0,1
+Appleton Farms,Williams West,N,2024,6/3/2024,8:15,Jane Woodman,3E,0,0,0,2,0,2,2
+Appleton Farms,Williams West,N,2024,6/3/2024,8:25,Jane Woodman,3F,0,0,0,3,0,3,3
+Appleton Farms,Sunset Hill,N,2024,6/5/2024,8:04,Greg Power,3A,0,0,0,1,0,1,1
+Appleton Farms,Sunset Meadow,N,2024,6/5/2024,7:57,Greg Power,3A,1,0,1,0,0,0,1
+Appleton Farms,Sunset Hill,N,2024,6/5/2024,7:46,Greg Power,3B,0,0,0,1,1,2,2
+Appleton Farms,Sunset Meadow,N,2024,6/5/2024,7:41,Greg Power,3B,3,1,4,2,0,2,6
+Appleton Farms,Horse Field Upper,N,2024,6/5/2024,7:18,Greg Power,3C,0,0,0,1,0,1,1
+Appleton Farms,Horse Field South,N,2024,6/5/2024,7:31,Greg Power,3D,0,0,0,2,0,2,2
+Appleton Farms,Williams West,N,2024,6/5/2024,8:25,Greg Power,3E,0,0,0,2,0,2,2
+Appleton Farms,Williams West,N,2024,6/5/2024,8:35,Greg Power,3F,0,0,0,4,0,4,4
+Appleton Farms,Lamson Middle,"Y, Mostly",2024,6/2/2024,6:33,Sharon Stavropoulos,1A,1,0,1,0,0,0,1
+Appleton Farms,Lamson Middle,"Y, Mostly",2024,6/2/2024,6:43,Sharon Stavropoulos,1B,2,1,3,0,0,0,3
+Appleton Farms,Lamson South,"Y, Partially",2024,6/2/2024,6:48,Sharon Stavropoulos,1B,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,"Y, Partially",2024,6/2/2024,6:55,Sharon Stavropoulos,1C,1,0,1,0,0,0,1
+Appleton Farms,Lamson South,"Y, Partially",2024,6/2/2024,7:06,Sharon Stavropoulos,1D,0,0,0,0,0,0,0
+Appleton Farms,GP8,Grazing,2024,6/2/2024,7:23,Sharon Stavropoulos,1E,1,0,1,0,0,0,1
+Appleton Farms,GP8,Grazing,2024,6/2/2024,7:32,Sharon Stavropoulos,1F,2,1,3,0,0,0,3
+Appleton Farms,Wilson's,N,2024,6/1/2024,6:42,Sharon Stavropoulos,2A,1,0,1,0,0,0,1
+Appleton Farms,Drainage,N,2024,6/1/2024,6:59,Sharon Stavropoulos,2B,2,0,2,0,0,0,2
+Appleton Farms,Broad Meadow,N,2024,6/1/2024,7:14,Sharon Stavropoulos,2C,0,0,0,1,0,1,1
+Appleton Farms,Broad Meadow,N,2024,6/1/2024,7:21,Sharon Stavropoulos,2D,4,0,4,2,0,2,6
+Appleton Farms,Broad Meadow,N,2024,6/1/2024,7:29,Sharon Stavropoulos,2E,1,0,1,0,0,0,1
+Appleton Farms,Steer Barn,N,2024,6/1/2024,7:34,Sharon Stavropoulos,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,6/1/2024,8:14,Sharon Stavropoulos,3A,0,0,0,1,0,1,1
+Appleton Farms,Sunset Meadow,N,2024,6/1/2024,8:19,Sharon Stavropoulos,3A,1,1,2,0,0,0,2
+Appleton Farms,Sunset Hill,N,2024,6/1/2024,8:06,Sharon Stavropoulos,3B,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,6/1/2024,8:00,Sharon Stavropoulos,3B,2,0,2,0,0,0,2
+Appleton Farms,Horse Field Upper,N,2024,6/1/2024,7:51,Sharon Stavropoulos,3C,0,0,0,1,0,1,1
+Appleton Farms,Horse Field South,N,2024,6/1/2024,8:28,Sharon Stavropoulos,3D,0,0,0,0,0,0,0
+Appleton Farms,Williams West,N,2024,6/1/2024,8:35,Sharon Stavropoulos,3E,0,0,0,0,0,0,0
+Appleton Farms,Williams West,N,2024,6/1/2024,8:43,Sharon Stavropoulos,3F,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,6/7/2024,6:55,Peter Ward,2A,1,0,1,0,0,0,1
+Appleton Farms,Drainage,N,2024,6/7/2024,6:40,Peter Ward,2B,0,0,0,2,1,3,3
+Appleton Farms,Broad Meadow,N,2024,6/7/2024,6:28,Peter Ward,2C,0,0,0,2,0,2,2
+Appleton Farms,Broad Meadow,N,2024,6/7/2024,6:20,Peter Ward,2D,4,0,4,1,0,1,5
+Appleton Farms,Broad Meadow,N,2024,6/7/2024,6:11,Peter Ward,2E,2,2,4,0,0,0,4
+Appleton Farms,Steer Barn,N,2024,6/7/2024,6:05,Peter Ward,2E,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,6/14/2024,6:31,Peter Ward,2A,1,0,1,0,0,0,1
+Appleton Farms,Drainage,N,2024,6/14/2024,6:16,Peter Ward,2B,0,0,0,1,0,1,1
+Appleton Farms,Broad Meadow,N,2024,6/14/2024,6:04,Peter Ward,2C,0,0,0,0,1,1,1
+Appleton Farms,Broad Meadow,N,2024,6/14/2024,5:56,Peter Ward,2D,4,0,4,0,0,0,4
+Appleton Farms,Broad Meadow,N,2024,6/14/2024,5:49,Peter Ward,2E,2,0,2,0,0,0,2
+Appleton Farms,Steer Barn,N,2024,6/14/2024,5:43,Peter Ward,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,Grazing,2024,6/11/2024,7:40,Jane Woodman,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,6/11/2024,7:30,Jane Woodman,3A,0,0,0,1,0,1,1
+Appleton Farms,Sunset Hill,Grazing,2024,6/11/2024,7:20,Jane Woodman,3B,1,0,1,0,0,0,1
+Appleton Farms,Sunset Meadow,N,2024,6/11/2024,7:10,Jane Woodman,3B,0,0,0,1,1,2,2
+Appleton Farms,Horse Field Upper,Some Grazing,2024,6/11/2024,7:00,Jane Woodman,3C,1,0,1,0,0,0,1
+Appleton Farms,Horse Field South,N,2024,6/11/2024,7:50,Jane Woodman,3D,0,0,0,1,0,1,1
+Appleton Farms,Williams West,N,2024,6/11/2024,8:05,Jane Woodman,3E,0,0,0,2,0,2,2
+Appleton Farms,Williams West,N,2024,6/11/2024,8:15,Jane Woodman,3F,0,0,0,3,0,3,3
+Appleton Farms,Wilson's,N,2024,6/9/2024,8:30,Bonnie Marsan,2A,1,0,1,0,0,0,1
+Appleton Farms,Drainage,N,2024,6/9/2024,8:42,Bonnie Marsan,2B,1,0,1,0,0,0,1
+Appleton Farms,Broad Meadow,N,2024,6/9/2024,8:52,Bonnie Marsan,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,6/9/2024,9:00,Bonnie Marsan,2D,2,2,4,1,0,1,5
+Appleton Farms,Broad Meadow,N,2024,6/9/2024,9:07,Bonnie Marsan,2E,0,0,0,0,0,0,0
+Appleton Farms,Steer Barn,N,2024,6/9/2024,9:13,Bonnie Marsan,2E,0,0,0,0,0,0,0
+Appleton Farms,Lamson Middle,"Y, Mostly",2024,6/9/2024,6:40,Sharon Stavropoulos,1A,1,0,1,1,1,2,3
+Appleton Farms,Lamson Middle,"Y, Mostly",2024,6/9/2024,6:49,Sharon Stavropoulos,1B,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,"Y, Mostly",2024,6/9/2024,6:54,Sharon Stavropoulos,1B,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,"Y, Mostly",2024,6/9/2024,7:04,Sharon Stavropoulos,1C,1,1,2,0,0,0,2
+Appleton Farms,Lamson South,"Y, Mostly",2024,6/9/2024,7:13,Sharon Stavropoulos,1D,0,0,0,0,0,0,0
+Appleton Farms,GP8,Grazing,2024,6/9/2024,7:29,Sharon Stavropoulos,1E,0,0,0,0,0,0,0
+Appleton Farms,GP8,Grazing,2024,6/9/2024,7:37,Sharon Stavropoulos,1F,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,6/8/2024,6:39,Sharon Stavropoulos,2A,0,0,0,1,0,1,1
+Appleton Farms,Drainage,N,2024,6/8/2024,6:54,Sharon Stavropoulos,2B,1,0,1,0,0,0,1
+Appleton Farms,Broad Meadow,N,2024,6/8/2024,7:04,Sharon Stavropoulos,2C,0,0,0,1,1,2,2
+Appleton Farms,Broad Meadow,N,2024,6/8/2024,7:13,Sharon Stavropoulos,2D,4,2,6,0,0,0,6
+Appleton Farms,Broad Meadow,N,2024,6/8/2024,7:23,Sharon Stavropoulos,2E,1,1,2,1,1,2,4
+Appleton Farms,Steer Barn,N,2024,6/8/2024,7:29,Sharon Stavropoulos,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,6/8/2024,8:11,Sharon Stavropoulos,3A,0,0,0,1,0,1,1
+Appleton Farms,Sunset Meadow,N,2024,6/8/2024,8:06,Sharon Stavropoulos,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,6/8/2024,8:00,Sharon Stavropoulos,3B,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,6/8/2024,7:55,Sharon Stavropoulos,3B,2,0,2,0,0,0,2
+Appleton Farms,Horse Field Upper,N,2024,6/8/2024,7:43,Sharon Stavropoulos,3C,0,0,0,2,0,2,2
+Appleton Farms,Horse Field South,N,2024,6/8/2024,8:22,Sharon Stavropoulos,3D,0,0,0,0,0,0,0
+Appleton Farms,Williams West,N,2024,6/8/2024,8:30,Sharon Stavropoulos,3E,0,0,0,0,0,0,0
+Appleton Farms,Williams West,N,2024,6/8/2024,8:39,Sharon Stavropoulos,3F,0,0,0,1,0,1,1
+Appleton Farms,Sunset Hill,Part Grazed,2024,6/18/2024,7:30,Jane Woodman,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,6/18/2024,7:20,Jane Woodman,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,Part Grazed,2024,6/18/2024,7:10,Jane Woodman,3B,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,6/18/2024,7:00,Jane Woodman,3B,0,0,0,1,0,1,1
+Appleton Farms,Horse Field Upper,N,2024,6/18/2024,6:50,Jane Woodman,3C,0,0,0,1,0,1,1
+Appleton Farms,Horse Field South,N,2024,6/18/2024,7:45,Jane Woodman,3D,0,0,0,0,0,0,0
+Appleton Farms,Williams West,"Y, Front Half",2024,6/18/2024,8:05,Jane Woodman,3E,0,0,0,3,0,3,3
+Appleton Farms,Williams West,"Y, Front Half",2024,6/18/2024,8:15,Jane Woodman,3F,0,0,0,2,0,2,2
+Appleton Farms,Lamson Middle,"Y, Partly",2024,6/13/2024,7:11,Greg Power,1A,0,0,0,2,1,3,3
+Appleton Farms,Lamson Middle,"Y, Partly",2024,6/13/2024,7:21,Greg Power,1B,0,0,0,2,0,2,2
+Appleton Farms,Lamson South,Y,2024,6/13/2024,7:27,Greg Power,1B,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,Y,2024,6/13/2024,7:38,Greg Power,1C,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,Y,2024,6/13/2024,7:56,Greg Power,1D,0,0,0,0,0,0,0
+Appleton Farms,GP8,Y,2024,6/13/2024,8:39,Greg Power,1E,1,0,1,0,0,0,1
+Appleton Farms,GP8,Y,2024,6/13/2024,8:26,Greg Power,1F,0,1,1,2,0,2,3
+Appleton Farms,Lamson Middle,"Y, Partly",2024,6/15/2024,6:42,Sharon Stavropoulos,1A,0,0,0,1,0,1,1
+Appleton Farms,Lamson Middle,"Y, Partly",2024,6/15/2024,6:50,Sharon Stavropoulos,1B,1,0,1,0,0,0,1
+Appleton Farms,Lamson South,Y,2024,6/15/2024,6:55,Sharon Stavropoulos,1B,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,Y,2024,6/15/2024,7:09,Sharon Stavropoulos,1C,1,1,2,0,0,0,2
+Appleton Farms,Lamson South,Y,2024,6/15/2024,7:23,Sharon Stavropoulos,1D,0,0,0,0,0,0,0
+Appleton Farms,GP8,Y,2024,6/15/2024,7:42,Sharon Stavropoulos,1E,0,0,0,0,0,0,0
+Appleton Farms,GP8,Y,2024,6/15/2024,7:49,Sharon Stavropoulos,1F,0,0,0,1,0,1,1
+Appleton Farms,Wilson's,N,2024,6/16/2024,6:41,Sharon Stavropoulos,2A,1,0,1,0,0,0,1
+Appleton Farms,Drainage,N,2024,6/16/2024,7:04,Sharon Stavropoulos,2B,1,0,1,0,0,0,1
+Appleton Farms,Broad Meadow,N,2024,6/16/2024,7:16,Sharon Stavropoulos,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,6/16/2024,7:24,Sharon Stavropoulos,2D,4,2,6,0,0,0,6
+Appleton Farms,Broad Meadow,N,2024,6/16/2024,7:34,Sharon Stavropoulos,2E,0,0,0,0,0,0,0
+Appleton Farms,Steer Barn,N,2024,6/16/2024,7:29,Sharon Stavropoulos,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,6/16/2024,7:52,Sharon Stavropoulos,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,6/16/2024,7:57,Sharon Stavropoulos,3A,0,0,0,3,0,3,3
+Appleton Farms,Sunset Hill,N,2024,6/16/2024,8:04,Sharon Stavropoulos,3B,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,6/16/2024,8:09,Sharon Stavropoulos,3B,3,2,5,0,0,0,5
+Appleton Farms,Horse Field Upper,N,2024,6/16/2024,8:19,Sharon Stavropoulos,3C,0,0,0,1,0,1,1
+Appleton Farms,Horse Field South,N,2024,6/16/2024,8:26,Sharon Stavropoulos,3D,1,0,1,0,0,0,1
+Appleton Farms,Williams West,"Y, Partly",2024,6/16/2024,8:35,Sharon Stavropoulos,3E,0,0,0,1,0,1,1
+Appleton Farms,Williams West,"Y, Partly",2024,6/16/2024,8:42,Sharon Stavropoulos,3F,0,0,0,2,0,2,2
+Appleton Farms,Wilson's,N,2024,6/16/2024,8:33,Bonnie Marsan,2A,1,1,2,0,0,0,2
+Appleton Farms,Drainage,N,2024,6/16/2024,8:54,Bonnie Marsan,2B,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,6/16/2024,9:08,Bonnie Marsan,2C,11,4,15,2,0,2,17
+Appleton Farms,Broad Meadow,N,2024,6/16/2024,9:15,Bonnie Marsan,2D,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,6/16/2024,9:28,Bonnie Marsan,2E,0,2,2,0,0,0,2
+Appleton Farms,Steer Barn,N,2024,6/16/2024,9:34,Bonnie Marsan,2E,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,6/20/2024,N/A,Peter Ward,2A,2,0,2,0,0,0,2
+Appleton Farms,Drainage,N,2024,6/20/2024,N/A,Peter Ward,2B,1,0,1,0,0,0,1
+Appleton Farms,Broad Meadow,N,2024,6/20/2024,N/A,Peter Ward,2C,3,2,5,0,0,0,5
+Appleton Farms,Broad Meadow,N,2024,6/20/2024,N/A,Peter Ward,2D,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,6/20/2024,N/A,Peter Ward,2E,2,0,2,2,0,2,4
+Appleton Farms,Steer Barn,N,2024,6/20/2024,N/A,Peter Ward,2E,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,6/27/2024,8:00,Peter Ward,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,6/27/2024,8:35,Peter Ward,2B,4,0,4,0,0,0,4
+Appleton Farms,Broad Meadow,N,2024,6/27/2024,8:26,Peter Ward,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,6/27/2024,8:11,Peter Ward,2D,5,2,7,0,0,0,7
+Appleton Farms,Broad Meadow,N,2024,6/27/2024,8:08,Peter Ward,2E,0,0,0,0,0,0,0
+Appleton Farms,Steer Barn,N,2024,6/27/2024,8:02,Peter Ward,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,Part Grazed,2024,6/25/2024,7:30,Jane Woodman,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,6/25/2024,7:25,Jane Woodman,3A,1,1,2,1,0,1,3
+Appleton Farms,Sunset Hill,Part Grazed,2024,6/25/2024,7:15,Jane Woodman,3B,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,6/25/2024,7:10,Jane Woodman,3B,0,0,0,3,0,3,3
+Appleton Farms,Horse Field Upper,Part Grazed,2024,6/25/2024,6:55,Jane Woodman,3C,0,0,0,1,0,1,1
+Appleton Farms,Horse Field South,N,2024,6/25/2024,7:45,Jane Woodman,3D,0,0,0,0,0,0,0
+Appleton Farms,Williams West,"Y, Front Half",2024,6/25/2024,8:00,Jane Woodman,3E,0,0,0,1,0,1,1
+Appleton Farms,Williams West,"Y, Front Half",2024,6/25/2024,8:10,Jane Woodman,3F,0,0,0,4,0,4,4
+Appleton Farms,Lamson Middle,"Y, Partly",2024,6/26/2024,7:56,Greg Power,1A,0,0,0,1,0,1,1
+Appleton Farms,Lamson Middle,"Y, Partly",2024,6/26/2024,8:05,Greg Power,1B,0,0,0,1,0,1,1
+Appleton Farms,Lamson South,"Y, Partly",2024,6/26/2024,8:10,Greg Power,1B,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,"Y, Partly",2024,6/26/2024,8:21,Greg Power,1C,0,1,1,1,1,2,3
+Appleton Farms,Lamson South,"Y, Partly",2024,6/26/2024,8:40,Greg Power,1D,0,0,0,0,0,0,0
+Appleton Farms,GP8,N,2024,6/26/2024,9:25,Greg Power,1E,0,0,0,0,0,0,0
+Appleton Farms,GP8,N,2024,6/26/2024,9:17,Greg Power,1F,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,6/19/2024,7:54,Greg Power,3A,0,0,0,0,2,2,2
+Appleton Farms,Sunset Meadow,N,2024,6/19/2024,7:48,Greg Power,3A,1,0,1,0,0,0,1
+Appleton Farms,Sunset Hill,N,2024,6/19/2024,7:39,Greg Power,3B,2,0,2,0,0,0,2
+Appleton Farms,Sunset Meadow,N,2024,6/19/2024,7:32,Greg Power,3B,3,1,4,0,0,0,4
+Appleton Farms,Horse Field Upper,N,2024,6/19/2024,7:16,Greg Power,3C,0,0,0,1,0,1,1
+Appleton Farms,Horse Field South,N,2024,6/19/2024,7:25,Greg Power,3D,0,0,0,0,0,0,0
+Appleton Farms,Williams West,"Y, Front Half",2024,6/19/2024,8:09,Greg Power,3E,0,0,0,1,0,1,1
+Appleton Farms,Williams West,"Y, Front Half",2024,6/19/2024,8:19,Greg Power,3F,3,1,4,0,0,0,4
+Appleton Farms,Wilson's,N,2024,6/26/2024,7:16,David Young,2A,2,0,2,0,0,0,2
+Appleton Farms,Drainage,N,2024,6/26/2024,7:58,David Young,2B,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,6/26/2024,7:28,David Young,2C,1,0,1,0,0,0,1
+Appleton Farms,Broad Meadow,N,2024,6/26/2024,7:34,David Young,2D,5,0,5,0,0,0,5
+Appleton Farms,Broad Meadow,N,2024,6/26/2024,7:43,David Young,2E,2,1,3,0,0,0,3
+Appleton Farms,Steer Barn,N,2024,6/26/2024,7:48,David Young,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,6/28/2024,11:57,David Young,3A,0,2,2,0,0,0,2
+Appleton Farms,Sunset Meadow,N,2024,6/28/2024,11:46,David Young,3A,1,0,1,1,0,1,2
+Appleton Farms,Sunset Hill,N,2024,6/28/2024,11:38,David Young,3B,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,6/28/2024,11:32,David Young,3B,2,1,3,0,0,0,3
+Appleton Farms,Horse Field Upper,N,2024,6/28/2024,10:53,David Young,3C,0,0,0,1,0,1,1
+Appleton Farms,Horse Field South,N,2024,6/28/2024,11:00,David Young,3D,1,0,1,0,0,0,1
+Appleton Farms,Williams West,"Y, Front Half",2024,6/28/2024,11:09,David Young,3E,0,0,0,1,0,1,1
+Appleton Farms,Williams West,"Y, Front Half",2024,6/28/2024,11:18,David Young,3F,0,0,0,1,0,1,1
+Appleton Farms,Wilson's,N,2024,6/22/2024,6:42,Sharon Stavropoulos,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,6/22/2024,6:56,Sharon Stavropoulos,2B,0,0,0,1,1,2,2
+Appleton Farms,Broad Meadow,N,2024,6/22/2024,7:08,Sharon Stavropoulos,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,6/22/2024,7:18,Sharon Stavropoulos,2D,7,2,9,0,0,0,9
+Appleton Farms,Broad Meadow,N,2024,6/22/2024,7:35,Sharon Stavropoulos,2E,0,0,0,1,0,1,1
+Appleton Farms,Steer Barn,N,2024,6/22/2024,7:40,Sharon Stavropoulos,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,6/22/2024,7:52,Sharon Stavropoulos,3A,1,0,1,0,0,0,1
+Appleton Farms,Sunset Meadow,N,2024,6/22/2024,7:57,Sharon Stavropoulos,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,6/22/2024,8:05,Sharon Stavropoulos,3B,3,0,3,0,0,0,3
+Appleton Farms,Sunset Meadow,N,2024,6/22/2024,8:10,Sharon Stavropoulos,3B,1,0,1,0,0,0,1
+Appleton Farms,Horse Field Upper,N,2024,6/22/2024,8:19,Sharon Stavropoulos,3C,0,0,0,1,0,1,1
+Appleton Farms,Horse Field South,N,2024,6/22/2024,8:47,Sharon Stavropoulos,3D,0,0,0,0,0,0,0
+Appleton Farms,Williams West,"Y, Front Half",2024,6/22/2024,8:29,Sharon Stavropoulos,3E,0,0,0,0,0,0,0
+Appleton Farms,Williams West,"Y, Front Half",2024,6/22/2024,8:36,Sharon Stavropoulos,3F,0,0,0,2,0,2,2
+Appleton Farms,Wilson's,N,2024,6/30/2024,7:48,Bonnie Marsan,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,6/30/2024,8:04,Bonnie Marsan,2B,4,6,10,0,0,0,10
+Appleton Farms,Broad Meadow,N,2024,6/30/2024,8:19,Bonnie Marsan,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,6/30/2024,8:26,Bonnie Marsan,2D,7,5,12,2,0,2,14
+Appleton Farms,Broad Meadow,N,2024,6/30/2024,8:42,Bonnie Marsan,2E,0,0,0,0,0,0,0
+Appleton Farms,Steer Barn,N,2024,6/30/2024,8:49,Bonnie Marsan,2E,2,1,3,0,0,0,3
+Appleton Farms,Lamson Middle,"Y, Partly",2024,6/29/2024,6:23,Sharon Stavropoulos,1A,1,1,2,0,0,0,2
+Appleton Farms,Lamson Middle,"Y, Partly",2024,6/29/2024,6:34,Sharon Stavropoulos,1B,2,2,4,0,0,0,4
+Appleton Farms,Lamson South,Y,2024,6/29/2024,6:40,Sharon Stavropoulos,1B,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,Y,2024,6/29/2024,6:47,Sharon Stavropoulos,1C,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,Y,2024,6/29/2024,6:57,Sharon Stavropoulos,1D,0,0,0,0,0,0,0
+Appleton Farms,GP8,Y,2024,6/29/2024,7:12,Sharon Stavropoulos,1E,0,0,0,0,0,0,0
+Appleton Farms,GP8,Y,2024,6/29/2024,7:20,Sharon Stavropoulos,1F,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,6/30/2024,6:31,Sharon Stavropoulos,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,6/30/2024,6:45,Sharon Stavropoulos,2B,1,1,2,1,0,1,3
+Appleton Farms,Broad Meadow,N,2024,6/30/2024,6:57,Sharon Stavropoulos,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,6/30/2024,7:05,Sharon Stavropoulos,2D,7,2,9,0,0,0,9
+Appleton Farms,Broad Meadow,N,2024,6/30/2024,7:17,Sharon Stavropoulos,2E,0,0,0,0,0,0,0
+Appleton Farms,Steer Barn,N,2024,6/30/2024,7:22,Sharon Stavropoulos,2E,1,1,2,0,0,0,2
+Appleton Farms,Lamson Middle,Y,2024,7/6/2024,7:14,Greg Power,1A,1,1,2,1,0,1,3
+Appleton Farms,Lamson Middle,Y,2024,7/6/2024,7:23,Greg Power,1B,1,3,4,1,0,1,5
+Appleton Farms,Lamson South,Y,2024,7/6/2024,7:29,Greg Power,1B,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,Y,2024,7/6/2024,7:44,Greg Power,1C,0,0,0,1,0,1,1
+Appleton Farms,Lamson South,Y,2024,7/6/2024,8:06,Greg Power,1D,0,0,0,0,0,0,0
+Appleton Farms,GP8,N,2024,7/6/2024,N/A,Greg Power,1E,0,0,0,0,0,0,0
+Appleton Farms,GP8,N,2024,7/6/2024,N/A,Greg Power,1F,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,7/9/2024,7:20,Jane Woodman,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,7/9/2024,7:15,Jane Woodman,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,7/9/2024,7:05,Jane Woodman,3B,1,1,2,2,0,2,4
+Appleton Farms,Sunset Meadow,N,2024,7/9/2024,7:00,Jane Woodman,3B,0,0,0,0,0,0,0
+Appleton Farms,Horse Field Upper,N,2024,7/9/2024,6:45,Jane Woodman,3C,0,0,0,0,0,0,0
+Appleton Farms,Horse Field South,N,2024,7/9/2024,7:35,Jane Woodman,3D,0,0,0,0,0,0,0
+Appleton Farms,Williams West,Y,2024,7/9/2024,7:50,Jane Woodman,3E,0,0,0,1,0,1,1
+Appleton Farms,Williams West,Y,2024,7/9/2024,8:00,Jane Woodman,3F,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,7/7/2024,7:28,Bonnie Marsan,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,7/7/2024,7:39,Bonnie Marsan,2B,3,2,5,0,0,0,5
+Appleton Farms,Broad Meadow,N,2024,7/7/2024,7:50,Bonnie Marsan,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,7/7/2024,7:57,Bonnie Marsan,2D,10,8,18,0,0,0,18
+Appleton Farms,Broad Meadow,N,2024,7/7/2024,8:05,Bonnie Marsan,2E,2,6,8,0,0,0,8
+Appleton Farms,Steer Barn,N,2024,7/7/2024,8:11,Bonnie Marsan,2E,1,0,1,0,0,0,1
+Appleton Farms,Lamson Middle,Y,2024,7/7/2024,6:33,Sharon Stavropoulos,1A,0,0,0,1,0,1,1
+Appleton Farms,Lamson Middle,Y,2024,7/7/2024,6:45,Sharon Stavropoulos,1B,1,1,2,0,0,0,2
+Appleton Farms,Lamson South,Y,2024,7/7/2024,6:52,Sharon Stavropoulos,1B,0,0,0,0,0,0,0
+Appleton Farms,Lamson South,Y,2024,7/7/2024,6:59,Sharon Stavropoulos,1C,0,0,0,1,0,1,1
+Appleton Farms,Lamson South,Y,2024,7/7/2024,7:10,Sharon Stavropoulos,1D,0,0,0,0,0,0,0
+Appleton Farms,GP8,N,2024,7/7/2024,7:28,Sharon Stavropoulos,1E,0,0,0,0,0,0,0
+Appleton Farms,GP8,N,2024,7/7/2024,7:35,Sharon Stavropoulos,1F,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,7/4/2024,6:36,Sharon Stavropoulos,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,7/4/2024,6:48,Sharon Stavropoulos,2B,1,1,2,0,0,0,2
+Appleton Farms,Broad Meadow,N,2024,7/4/2024,6:59,Sharon Stavropoulos,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,7/4/2024,7:05,Sharon Stavropoulos,2D,0,0,0,3,2,5,5
+Appleton Farms,Broad Meadow,N,2024,7/4/2024,7:14,Sharon Stavropoulos,2E,0,0,0,0,0,0,0
+Appleton Farms,Steer Barn,N,2024,7/4/2024,7:19,Sharon Stavropoulos,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,7/4/2024,7:33,Sharon Stavropoulos,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,7/4/2024,7:38,Sharon Stavropoulos,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,7/4/2024,7:45,Sharon Stavropoulos,3B,3,2,5,0,0,0,5
+Appleton Farms,Sunset Meadow,N,2024,7/4/2024,7:50,Sharon Stavropoulos,3B,0,0,0,0,0,0,0
+Appleton Farms,Horse Field Upper,N,2024,7/4/2024,7:57,Sharon Stavropoulos,3C,0,0,0,0,0,0,0
+Appleton Farms,Horse Field South,N,2024,7/4/2024,8:03,Sharon Stavropoulos,3D,0,0,0,0,0,0,0
+Appleton Farms,Williams West,Y,2024,7/4/2024,8:10,Sharon Stavropoulos,3E,0,0,0,0,0,0,0
+Appleton Farms,Williams West,Y,2024,7/4/2024,8:16,Sharon Stavropoulos,3F,0,0,0,2,1,3,3
+Appleton Farms,Wilson's,N,2024,7/3/2024,5:52,Peter Ward,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,7/3/2024,5:38,Peter Ward,2B,1,0,1,0,0,0,1
+Appleton Farms,Broad Meadow,N,2024,7/3/2024,5:28,Peter Ward,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,7/3/2024,5:19,Peter Ward,2D,0,1,1,2,0,2,3
+Appleton Farms,Broad Meadow,N,2024,7/3/2024,5:10,Peter Ward,2E,2,0,2,0,0,0,2
+Appleton Farms,Steer Barn,N,2024,7/3/2024,5:04,Peter Ward,2E,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,7/12/2024,6:12,Peter Ward,2A,1,0,1,0,0,0,1
+Appleton Farms,Drainage,Grazed,2024,7/12/2024,5:57,Peter Ward,2B,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,7/12/2024,5:48,Peter Ward,2C,4,3,7,1,1,2,9
+Appleton Farms,Broad Meadow,N,2024,7/12/2024,5:39,Peter Ward,2D,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,7/12/2024,5:31,Peter Ward,2E,1,0,1,0,0,0,1
+Appleton Farms,Steer Barn,N,2024,7/12/2024,5:25,Peter Ward,2E,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,7/18/2024,7:14,Peter Ward,2A,1,0,1,0,0,0,1
+Appleton Farms,Drainage,Noted Grazed,2024,7/18/2024,7:00,Peter Ward,2B,0,0,0,1,0,1,1
+Appleton Farms,Broad Meadow,N,2024,7/18/2024,6:49,Peter Ward,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,7/18/2024,6:41,Peter Ward,2D,6,0,6,0,0,0,6
+Appleton Farms,Broad Meadow,N,2024,7/18/2024,6:34,Peter Ward,2E,0,0,0,0,0,3,3
+Appleton Farms,Steer Barn,N,2024,7/18/2024,6:28,Peter Ward,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,7/15/2024,7:35,Jane Woodman,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,7/15/2024,7:30,Jane Woodman,3A,0,0,0,1,0,1,1
+Appleton Farms,Sunset Hill,N,2024,7/15/2024,7:20,Jane Woodman,3B,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,7/15/2024,7:15,Jane Woodman,3B,0,0,0,1,1,2,2
+Appleton Farms,Horse Field Upper,Noted Grazed,2024,7/15/2024,7:05,Jane Woodman,3C,0,0,0,0,0,0,0
+Appleton Farms,Horse Field South,N,2024,7/15/2024,7:45,Jane Woodman,3D,0,0,0,0,0,0,0
+Appleton Farms,Williams West,Y,2024,7/15/2024,8:00,Jane Woodman,3E,0,0,0,0,0,0,0
+Appleton Farms,Williams West,Y,2024,7/15/2024,8:10,Jane Woodman,3F,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,7/21/2024,N/A,Bonnie Marsan,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,Y,2024,7/21/2024,N/A,Bonnie Marsan,2B,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,7/21/2024,N/A,Bonnie Marsan,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,7/21/2024,N/A,Bonnie Marsan,2D,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,7/21/2024,N/A,Bonnie Marsan,2E,0,0,0,0,0,0,0
+Appleton Farms,Steer Barn,N,2024,7/21/2024,N/A,Bonnie Marsan,2E,0,0,0,0,0,0,0
+Appleton Farms,Wilson's,N,2024,7/14/2024,8:19,Bonnie Marsan,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,Y,2024,7/14/2024,8:43,Bonnie Marsan,2B,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,7/14/2024,8:55,Bonnie Marsan,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,7/14/2024,9:05,Bonnie Marsan,2D,4,4,8,0,0,0,8
+Appleton Farms,Broad Meadow,N,2024,7/14/2024,9:12,Bonnie Marsan,2E,0,0,0,0,0,0,0
+Appleton Farms,Steer Barn,N,2024,7/14/2024,9:18,Bonnie Marsan,2E,0,0,0,0,1,1,1
+Appleton Farms,Wilson's,N,2024,7/20/2024,5:12,David Young,2A,0,0,0,0,0,0,0
+Appleton Farms,Drainage,N,2024,7/20/2024,5:56,David Young,2B,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,7/20/2024,5:23,David Young,2C,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,7/20/2024,5:30,David Young,2D,0,0,0,0,0,0,0
+Appleton Farms,Broad Meadow,N,2024,7/20/2024,5:42,David Young,2E,0,0,0,0,0,0,0
+Appleton Farms,Steer Barn,N,2024,7/20/2024,5:47,David Young,2E,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,7/20/2024,7:17,David Young,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,7/20/2024,7:12,David Young,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,7/20/2024,7:03,David Young,3B,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,7/20/2024,6:58,David Young,3B,0,0,0,0,0,0,0
+Appleton Farms,Horse Field Upper,N,2024,7/20/2024,6:13,David Young,3C,0,N/A,8,0,0,0,8
+Appleton Farms,Horse Field South,N,2024,7/20/2024,6:20,David Young,3D,4,1,5,0,0,0,5
+Appleton Farms,Williams West,Y,2024,7/20/2024,6:31,David Young,3E,0,0,0,0,0,0,0
+Appleton Farms,Williams West,Y,2024,7/20/2024,6:42,David Young,3F,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,7/9/2024,8:23,Greg Power,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Meadow,N,2024,7/9/2024,8:16,Greg Power,3A,0,0,0,0,0,0,0
+Appleton Farms,Sunset Hill,N,2024,7/9/2024,8:07,Greg Power,3B,0,0,0,1,0,1,1
+Appleton Farms,Sunset Meadow,N,2024,7/9/2024,8:02,Greg Power,3B,1,0,1,3,0,3,4
+Appleton Farms,Horse Field Upper,N,2024,7/9/2024,7:39,Greg Power,3C,0,0,0,0,0,0,0
+Appleton Farms,Horse Field South,N,2024,7/9/2024,7:53,Greg Power,3D,0,0,0,1,0,1,1
+Appleton Farms,Williams West,Y,2024,7/9/2024,8:46,Greg Power,3E,0,0,0,0,0,0,0
+Appleton Farms,Williams West,Y,2024,7/9/2024,8:59,Greg Power,3F,0,0,0,0,0,0,0
